@@ -2,7 +2,7 @@
 
 # Anderson Aaron Alarcón
 
-**`Full Stack & Android Developer — Arequipa, Perú 🇵🇪`**
+**`Full Stack Developer · Backend, Mobile & Cloud — Arequipa, Perú 🇵🇪`**
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-andersonaaronalarcon.dev-FF3333?style=for-the-badge&labelColor=1a1a1a)](https://andersonaaronalarcon.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-white?style=for-the-badge&logo=linkedin&logoColor=FF3333&labelColor=1a1a1a)](https://linkedin.com/in/anderson-aaron-alarcon)
@@ -26,10 +26,12 @@ object RedDeadth {
     val location = "Arequipa, Perú 🇵🇪"
     val status   = "🟢 Open to remote work"
 
+    val focus    = "Backend · Microservices · Clean Architecture"
+
     val stack    = listOf(
-        "Spring Boot · FastAPI · Node.js",
-        "React · Angular · Flutter",
-        "Kotlin · Jetpack Compose · MVVM"
+        "Node.js · FastAPI · ASP.NET Core",
+        "AWS Lambda · DynamoDB · Cognito",
+        "Flutter · Kotlin · MVVM"
     )
 
     val creed = "Write code that outlives its author."
@@ -146,6 +148,18 @@ Hexagonal architecture · JWT + Spring Security · Clean domain model
 
 Android + web admin + Arduino firmware · MVVM · Material Design 3
 
+<br/>
+
+### ◆ [`Rueda de Problemas`](https://ruedadeproblemas.pe/)
+
+> Matching platform — in production
+
+![Next.js](https://img.shields.io/badge/Next.js_14-1a1a1a?style=flat-square&logo=nextdotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FF3333?style=flat-square&logo=postgresql&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-1a1a1a?style=flat-square&logo=railway&logoColor=white)
+
+Backend + PostgreSQL data model · Feature-based frontend (15+ modules) · Cloudflare
+
 </td>
 <td width="48%" valign="top">
 
@@ -164,7 +178,16 @@ Clean Architecture · CQRS / MediatR · Hangfire · Swagger
 ![Kotlin](https://img.shields.io/badge/Kotlin-FF3333?style=flat-square&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-1a1a1a?style=flat-square&logo=android&logoColor=white)
 
-Notification aggregator across preferred apps
+Notification hub with IoT sync (MQTT · ESP32) · MVVM + Clean Architecture · Dagger-Hilt · 82+ unit tests
+
+<br/>
+
+### ◇ [`TypeNote`](https://github.com/NinaDIV/TypeNote-iOS-Notes-App)
+
+![AWS](https://img.shields.io/badge/AWS_Lambda-FF3333?style=flat-square&logo=awslambda&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-1a1a1a?style=flat-square&logo=amazondynamodb&logoColor=white)
+
+Serverless backend for an iOS notes app · API Gateway · Cognito · Amplify (−40% client setup time)
 
 </td>
 </tr>
@@ -181,11 +204,24 @@ Notification aggregator across preferred apps
 <table>
 <tr>
 <td align="center" width="9%">
+  <img src="https://img.shields.io/badge/HMK-1a1a1a?style=for-the-badge&labelColor=FF3333"/>
+</td>
+<td>
+
+**Hackmonkeys** — Backend Developer &nbsp; `04/2026 – 10/2026`
+`Node.js` `Express` `MongoDB` `Microservices`
+> Backend services & APIs · Outsourced staff onboarding flow · Multi-tenant HR endpoint audits
+
+</td>
+</tr>
+<tr><td colspan="2"><br/></td></tr>
+<tr>
+<td align="center" width="9%">
   <img src="https://img.shields.io/badge/NAV-FF3333?style=for-the-badge&labelColor=1a1a1a"/>
 </td>
 <td>
 
-**Navia** — Full Stack Developer &nbsp;
+**Navia** — Full Stack Developer &nbsp; `01/2026 – 02/2026`
 `FastAPI` `Flutter` `Hexagonal Architecture` `Dependency Injection`
 > Auth module refactoring · Ports & adapters pattern · Flutter input validations
 
@@ -198,9 +234,9 @@ Notification aggregator across preferred apps
 </td>
 <td>
 
-**Fibertel Networks** — Android Developer &nbsp;
-`Kotlin` `MVVM` `Firebase` `Facial Recognition`
-> Full attendance system · Real-time face detection · Android + web admin panel
+**Fibertel Networks** — Android Developer &nbsp; `12/2024 – 01/2025`
+`Kotlin` `MVVM` `ML Kit` `Facial Recognition`
+> Attendance system with facial recognition (85% accuracy) · Google Maps geolocation checks
 
 </td>
 </tr>
