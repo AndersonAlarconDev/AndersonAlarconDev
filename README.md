@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050E24,45:0057FF,80:00B4FF,100:A6FF00&height=210&section=header&text=Anderson%20Aaron%20Alarc%C3%B3n&fontColor=F4FBFF&fontSize=44&fontAlignY=34&desc=RedDeadth%20%C2%B7%20Full%20Stack%20Developer%20%C2%B7%20Arequipa%2C%20Per%C3%BA&descSize=16&descAlignY=55&animation=fadeIn" alt="Anderson Aaron Alarcón — RedDeadth · Full Stack Developer · Arequipa, Perú" width="100%"/>
 
-<a href="https://andersonaaronalarcon.dev"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1400&color=00B4FF&center=true&vCenter=true&width=660&lines=%3E+Backend+roots+%C2%B7+Node.js+%C2%B7+FastAPI+%C2%B7+ASP.NET+Core;%3E+Clean+trunk+%C2%B7+Hexagonal+%C2%B7+CQRS+%C2%B7+Microservices;%3E+Mobile+leaves+%C2%B7+Flutter+%C2%B7+Kotlin;%3E+Cloud+canopy+%C2%B7+AWS+Lambda+%C2%B7+DynamoDB+%C2%B7+Cognito" alt="Backend roots · Clean trunk · Mobile leaves · Cloud canopy"/></a>
+<a href="https://andersonaaronalarcon.dev"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1400&color=00B4FF&center=true&vCenter=true&width=660&lines=%3E+Backend+%C2%B7+Node.js+%C2%B7+FastAPI+%C2%B7+ASP.NET+Core;%3E+Architecture+%C2%B7+Hexagonal+%C2%B7+CQRS+%C2%B7+Microservices;%3E+Mobile+%C2%B7+Flutter+%C2%B7+Kotlin;%3E+Cloud+%C2%B7+AWS+Lambda+%C2%B7+DynamoDB+%C2%B7+Cognito" alt="Backend · Architecture · Mobile · Cloud"/></a>
 
 [![Portfolio](assets/badges/portfolio-andersonaaronalarcon-dev-15cbee.svg)](https://andersonaaronalarcon.dev)
 [![LinkedIn](assets/badges/linkedin-connect-f974cf.svg)](https://linkedin.com/in/anderson-aaron-alarcon)
@@ -45,7 +45,7 @@ object RedDeadth {
 
 ```
   ╔══════════════════════════════╗
-  ║   GROWTH RINGS               ║
+  ║   SKILL MATRIX               ║
   ╠════════════════════╦═════════╣
   ║ Architecture       ║ ████░   ║
   ║ Backend            ║ ████░   ║
@@ -66,9 +66,7 @@ object RedDeadth {
 </tr>
 </table>
 
-## `$ tree ./stack`
-
-> Software is a living system: deep roots, a clean trunk, and everything else grows from there.
+## `$ ls ./stack`
 
 <table width="100%">
 <tr>
@@ -80,7 +78,7 @@ object RedDeadth {
 </td>
 </tr>
 <tr>
-<td align="center"><img src="assets/badges/cloud-canopy-4d1d54.svg" alt="Cloud canopy"/></td>
+<td align="center"><img src="assets/badges/cloud-4b10f7.svg" alt="Cloud"/></td>
 <td>
 
 <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,firebase,cloudflare,vercel" alt="AWS, Docker, GitHub Actions, Firebase, Cloudflare, Vercel"/>
@@ -88,7 +86,7 @@ object RedDeadth {
 </td>
 </tr>
 <tr>
-<td align="center"><img src="assets/badges/leaves-mobile-ui-15ed60.svg" alt="Leaves: mobile and UI"/></td>
+<td align="center"><img src="assets/badges/mobile-ui-2296f0.svg" alt="Mobile and UI"/></td>
 <td>
 
 <img src="https://skillicons.dev/icons?i=kotlin,flutter,dart,androidstudio,react,ts,nextjs,angular" alt="Kotlin, Flutter, Dart, Android Studio, React, TypeScript, Next.js, Angular"/>
@@ -96,20 +94,7 @@ object RedDeadth {
 </td>
 </tr>
 <tr>
-<td align="center"><img src="assets/badges/trunk-architecture-abf009.svg" alt="Trunk: architecture"/></td>
-<td>
-
-![Hexagonal](assets/badges/hexagonal-97678d.svg)
-![CQRS](assets/badges/cqrs-mediatr-7689cf.svg)
-![Clean](assets/badges/clean-architecture-8259e2.svg)
-![Microservices](assets/badges/microservices-30f974.svg)
-![MVVM](assets/badges/mvvm-7aaaad.svg)
-![CI/CD](assets/badges/ci-cd-b7558f.svg)
-
-</td>
-</tr>
-<tr>
-<td align="center"><img src="assets/badges/roots-backend-33cb39.svg" alt="Roots: backend"/></td>
+<td align="center"><img src="assets/badges/backend-db3839.svg" alt="Backend"/></td>
 <td>
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,dotnet,cs,java,spring,py,postgres,mongodb" alt="Node.js, Express, FastAPI, .NET, C#, Java, Spring, Python, PostgreSQL, MongoDB"/>
@@ -122,13 +107,11 @@ object RedDeadth {
 
 ## `$ ls ./projects`
 
-> Each project is tagged by the part of the tree it grows from: 🪵 roots · 🌿 leaves · ☁️ canopy.
-
 <table>
 <tr>
 <td width="52%" valign="top">
 
-### 🪵 [`ecommerce-api`](https://github.com/RedDeadth/ecommerce-api)
+### ⚙️ [`ecommerce-api`](https://github.com/RedDeadth/ecommerce-api)
 
 > RESTful API — e-commerce platform
 
@@ -140,7 +123,7 @@ Hexagonal architecture · JWT + Spring Security · Clean domain model
 
 <br/>
 
-### 🌿 [`GuardianBox`](https://github.com/RedDeadth/GuardianBox)
+### 📱 [`GuardianBox`](https://github.com/RedDeadth/GuardianBox)
 
 > IoT locker management system
 
@@ -152,7 +135,7 @@ Android + web admin + Arduino firmware · MVVM · Material Design 3
 
 <br/>
 
-### 🪵 [`Rueda de Problemas`](https://ruedadeproblemas.pe/)
+### ⚙️ [`Rueda de Problemas`](https://ruedadeproblemas.pe/)
 
 > Matching platform — in production
 
@@ -165,7 +148,7 @@ Backend + PostgreSQL data model · Feature-based frontend (15+ modules) · Cloud
 </td>
 <td width="48%" valign="top">
 
-### 🪵 [`Luka-Final-Project`](https://github.com/RedDeadth/Luka-Final-Project)
+### ⚙️ [`Luka-Final-Project`](https://github.com/RedDeadth/Luka-Final-Project)
 
 ![C#](assets/badges/c-net-9-00ca62.svg)
 ![Docker](assets/badges/docker-7cbcb4.svg)
@@ -175,7 +158,7 @@ Clean Architecture · CQRS / MediatR · Hangfire · Swagger
 
 <br/>
 
-### 🌿 [`NotificationManager`](https://github.com/RedDeadth/NotificationManager)
+### 📱 [`NotificationManager`](https://github.com/RedDeadth/NotificationManager)
 
 ![Kotlin](assets/badges/kotlin-80acf5.svg)
 ![Android](assets/badges/android-b6ba09.svg)
