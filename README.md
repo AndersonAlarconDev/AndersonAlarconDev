@@ -70,15 +70,7 @@ object RedDeadth {
 
 <table width="100%">
 <tr>
-<td width="24%" align="center"><img src="assets/badges/now-f11d89.svg" alt="Now"/></td>
-<td>
-
-**Microservices @ Hackmonkeys** — Node.js · Express · MongoDB · multi-tenant APIs
-
-</td>
-</tr>
-<tr>
-<td align="center"><img src="assets/badges/cloud-4b10f7.svg" alt="Cloud"/></td>
+<td width="24%" align="center"><img src="assets/badges/cloud-4b10f7.svg" alt="Cloud"/></td>
 <td>
 
 <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,firebase,cloudflare,vercel" alt="AWS, Docker, GitHub Actions, Firebase, Cloudflare, Vercel"/>
