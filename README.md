@@ -4,9 +4,9 @@
 
 <a href="https://andersonaaronalarcon.dev"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1400&color=00B4FF&center=true&vCenter=true&width=660&lines=%3E+Backend+roots+%C2%B7+Node.js+%C2%B7+FastAPI+%C2%B7+ASP.NET+Core;%3E+Clean+trunk+%C2%B7+Hexagonal+%C2%B7+CQRS+%C2%B7+Microservices;%3E+Mobile+leaves+%C2%B7+Flutter+%C2%B7+Kotlin;%3E+Cloud+canopy+%C2%B7+AWS+Lambda+%C2%B7+DynamoDB+%C2%B7+Cognito" alt="Backend roots · Clean trunk · Mobile leaves · Cloud canopy"/></a>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-andersonaaronalarcon.dev-A6FF00?style=for-the-badge&labelColor=050E24)](https://andersonaaronalarcon.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-3DE0FF?style=for-the-badge&logo=linkedin&logoColor=3DE0FF&labelColor=050E24)](https://linkedin.com/in/anderson-aaron-alarcon)
-[![Email](https://img.shields.io/badge/Gmail-Contact-FFE11A?style=for-the-badge&logo=gmail&logoColor=FFE11A&labelColor=050E24)](mailto:aaronandersonalarcon@gmail.com)
+[![Portfolio](assets/badges/portfolio-andersonaaronalarcon-dev-15cbee.svg)](https://andersonaaronalarcon.dev)
+[![LinkedIn](assets/badges/linkedin-connect-f974cf.svg)](https://linkedin.com/in/anderson-aaron-alarcon)
+[![Email](assets/badges/gmail-contact-dcd6b9.svg)](mailto:aaronandersonalarcon@gmail.com)
 [![Followers](https://img.shields.io/github/followers/RedDeadth?style=for-the-badge&logo=github&logoColor=white&labelColor=050E24&color=00B4FF&label=Followers)](https://github.com/RedDeadth)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00B4FF,50:A6FF00,100:FFE11A&height=3" alt="" width="100%"/>
@@ -57,8 +57,8 @@ object RedDeadth {
 
 <div align="right">
 
-![TECSUP](https://img.shields.io/badge/TECSUP_2023–2025-Diseño_y_Desarrollo_de_Software-A6FF00?style=flat-square&labelColor=050E24)
-![English](https://img.shields.io/badge/English-B1-FFE11A?style=flat-square&labelColor=050E24)
+![TECSUP](assets/badges/tecsup-2023-2025-dise-o-y-desarrollo-de--7695bf.svg)
+![English](assets/badges/english-b1-6ca1df.svg)
 
 </div>
 
@@ -72,7 +72,7 @@ object RedDeadth {
 
 <table width="100%">
 <tr>
-<td width="24%" align="center"><img src="https://img.shields.io/badge/%E2%98%80%EF%B8%8F_NOW-FFE11A?style=for-the-badge" alt="Now"/></td>
+<td width="24%" align="center"><img src="assets/badges/now-f11d89.svg" alt="Now"/></td>
 <td>
 
 **Microservices @ Hackmonkeys** — Node.js · Express · MongoDB · multi-tenant APIs
@@ -80,7 +80,7 @@ object RedDeadth {
 </td>
 </tr>
 <tr>
-<td align="center"><img src="https://img.shields.io/badge/%E2%98%81%EF%B8%8F_CLOUD_CANOPY-00B4FF?style=for-the-badge" alt="Cloud canopy"/></td>
+<td align="center"><img src="assets/badges/cloud-canopy-4d1d54.svg" alt="Cloud canopy"/></td>
 <td>
 
 <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,firebase,cloudflare,vercel" alt="AWS, Docker, GitHub Actions, Firebase, Cloudflare, Vercel"/>
@@ -88,7 +88,7 @@ object RedDeadth {
 </td>
 </tr>
 <tr>
-<td align="center"><img src="https://img.shields.io/badge/%F0%9F%8C%BF_LEAVES_·_MOBILE_%26_UI-A6FF00?style=for-the-badge" alt="Leaves: mobile and UI"/></td>
+<td align="center"><img src="assets/badges/leaves-mobile-ui-15ed60.svg" alt="Leaves: mobile and UI"/></td>
 <td>
 
 <img src="https://skillicons.dev/icons?i=kotlin,flutter,dart,androidstudio,react,ts,nextjs,angular" alt="Kotlin, Flutter, Dart, Android Studio, React, TypeScript, Next.js, Angular"/>
@@ -96,20 +96,20 @@ object RedDeadth {
 </td>
 </tr>
 <tr>
-<td align="center"><img src="https://img.shields.io/badge/%E2%95%91_TRUNK_·_ARCHITECTURE-0A1F5C?style=for-the-badge" alt="Trunk: architecture"/></td>
+<td align="center"><img src="assets/badges/trunk-architecture-abf009.svg" alt="Trunk: architecture"/></td>
 <td>
 
-![Hexagonal](https://img.shields.io/badge/Hexagonal-0A1F5C?style=flat-square)
-![CQRS](https://img.shields.io/badge/CQRS_/_MediatR-0A1F5C?style=flat-square)
-![Clean](https://img.shields.io/badge/Clean_Architecture-0A1F5C?style=flat-square)
-![Microservices](https://img.shields.io/badge/Microservices-0A1F5C?style=flat-square)
-![MVVM](https://img.shields.io/badge/MVVM-0A1F5C?style=flat-square)
-![CI/CD](https://img.shields.io/badge/CI/CD-0A1F5C?style=flat-square)
+![Hexagonal](assets/badges/hexagonal-97678d.svg)
+![CQRS](assets/badges/cqrs-mediatr-7689cf.svg)
+![Clean](assets/badges/clean-architecture-8259e2.svg)
+![Microservices](assets/badges/microservices-30f974.svg)
+![MVVM](assets/badges/mvvm-7aaaad.svg)
+![CI/CD](assets/badges/ci-cd-b7558f.svg)
 
 </td>
 </tr>
 <tr>
-<td align="center"><img src="https://img.shields.io/badge/%F0%9F%AA%B5_ROOTS_·_BACKEND-6B3A12?style=for-the-badge" alt="Roots: backend"/></td>
+<td align="center"><img src="assets/badges/roots-backend-33cb39.svg" alt="Roots: backend"/></td>
 <td>
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,dotnet,cs,java,spring,py,postgres,mongodb" alt="Node.js, Express, FastAPI, .NET, C#, Java, Spring, Python, PostgreSQL, MongoDB"/>
@@ -132,9 +132,9 @@ object RedDeadth {
 
 > RESTful API — e-commerce platform
 
-![Java](https://img.shields.io/badge/Java_21-6B3A12?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6B3A12?style=flat-square&logo=springboot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A1F5C?style=flat-square&logo=postgresql&logoColor=white)
+![Java](assets/badges/java-21-90f563.svg)
+![Spring Boot](assets/badges/spring-boot-3-da8b49.svg)
+![PostgreSQL](assets/badges/postgresql-810b0e.svg)
 
 Hexagonal architecture · JWT + Spring Security · Clean domain model
 
@@ -144,9 +144,9 @@ Hexagonal architecture · JWT + Spring Security · Clean domain model
 
 > IoT locker management system
 
-![Kotlin](https://img.shields.io/badge/Kotlin-A6FF00?style=flat-square&logo=kotlin&logoColor=050E24)
-![Compose](https://img.shields.io/badge/Jetpack_Compose-A6FF00?style=flat-square&logo=jetpackcompose&logoColor=050E24)
-![Firebase](https://img.shields.io/badge/Firebase-0A1F5C?style=flat-square&logo=firebase&logoColor=FFE11A)
+![Kotlin](assets/badges/kotlin-80acf5.svg)
+![Compose](assets/badges/jetpack-compose-e08740.svg)
+![Firebase](assets/badges/firebase-0c0e68.svg)
 
 Android + web admin + Arduino firmware · MVVM · Material Design 3
 
@@ -156,9 +156,9 @@ Android + web admin + Arduino firmware · MVVM · Material Design 3
 
 > Matching platform — in production
 
-![Next.js](https://img.shields.io/badge/Next.js_14-0A1F5C?style=flat-square&logo=nextdotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-6B3A12?style=flat-square&logo=postgresql&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0A1F5C?style=flat-square&logo=railway&logoColor=white)
+![Next.js](assets/badges/next-js-14-c6ce2d.svg)
+![PostgreSQL](assets/badges/postgresql-1fdaec.svg)
+![Railway](assets/badges/railway-b3a3e2.svg)
 
 Backend + PostgreSQL data model · Feature-based frontend (15+ modules) · Cloudflare
 
@@ -167,9 +167,9 @@ Backend + PostgreSQL data model · Feature-based frontend (15+ modules) · Cloud
 
 ### 🪵 [`Luka-Final-Project`](https://github.com/RedDeadth/Luka-Final-Project)
 
-![C#](https://img.shields.io/badge/C%23_.NET_9-6B3A12?style=flat-square&logo=dotnet&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0A1F5C?style=flat-square&logo=docker&logoColor=3DE0FF)
-![Render](https://img.shields.io/badge/Render-0A1F5C?style=flat-square&logo=render&logoColor=white)
+![C#](assets/badges/c-net-9-00ca62.svg)
+![Docker](assets/badges/docker-7cbcb4.svg)
+![Render](assets/badges/render-2a1740.svg)
 
 Clean Architecture · CQRS / MediatR · Hangfire · Swagger
 
@@ -177,8 +177,8 @@ Clean Architecture · CQRS / MediatR · Hangfire · Swagger
 
 ### 🌿 [`NotificationManager`](https://github.com/RedDeadth/NotificationManager)
 
-![Kotlin](https://img.shields.io/badge/Kotlin-A6FF00?style=flat-square&logo=kotlin&logoColor=050E24)
-![Android](https://img.shields.io/badge/Android-A6FF00?style=flat-square&logo=android&logoColor=050E24)
+![Kotlin](assets/badges/kotlin-80acf5.svg)
+![Android](assets/badges/android-b6ba09.svg)
 
 Notification hub with IoT sync (MQTT · ESP32) · MVVM + Clean Architecture · Dagger-Hilt · 82+ unit tests
 
@@ -186,8 +186,8 @@ Notification hub with IoT sync (MQTT · ESP32) · MVVM + Clean Architecture · D
 
 ### ☁️ [`TypeNote`](https://github.com/NinaDIV/TypeNote-iOS-Notes-App)
 
-![AWS](https://img.shields.io/badge/AWS_Lambda-00B4FF?style=flat-square&logo=awslambda&logoColor=050E24)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-00B4FF?style=flat-square&logo=amazondynamodb&logoColor=050E24)
+![AWS](assets/badges/aws-lambda-ee06ef.svg)
+![DynamoDB](assets/badges/dynamodb-4824cf.svg)
 
 Serverless backend for an iOS notes app · API Gateway · Cognito · Amplify (−40% client setup time)
 
@@ -202,7 +202,7 @@ Serverless backend for an iOS notes app · API Gateway · Cognito · Amplify (�
 <table>
 <tr>
 <td align="center" width="9%">
-  <img src="https://img.shields.io/badge/HMK-6B3A12?style=for-the-badge" alt="Hackmonkeys"/>
+  <img src="assets/badges/hmk-843ca7.svg" alt="Hackmonkeys"/>
 </td>
 <td>
 
@@ -215,7 +215,7 @@ Serverless backend for an iOS notes app · API Gateway · Cognito · Amplify (�
 <tr><td colspan="2"><br/></td></tr>
 <tr>
 <td align="center" width="9%">
-  <img src="https://img.shields.io/badge/NAV-00B4FF?style=for-the-badge" alt="Navia"/>
+  <img src="assets/badges/nav-c00f2a.svg" alt="Navia"/>
 </td>
 <td>
 
@@ -228,7 +228,7 @@ Serverless backend for an iOS notes app · API Gateway · Cognito · Amplify (�
 <tr><td colspan="2"><br/></td></tr>
 <tr>
 <td align="center" width="9%">
-  <img src="https://img.shields.io/badge/FBT-A6FF00?style=for-the-badge" alt="Fibertel Networks"/>
+  <img src="assets/badges/fbt-4f1096.svg" alt="Fibertel Networks"/>
 </td>
 <td>
 
@@ -256,7 +256,7 @@ Serverless backend for an iOS notes app · API Gateway · Cognito · Amplify (�
 
 **`Let's grow something together.`**
 
-[![Portfolio](https://img.shields.io/badge/andersonaaronalarcon.dev-A6FF00?style=for-the-badge&logo=vercel&logoColor=A6FF00&labelColor=050E24)](https://andersonaaronalarcon.dev)
+[![Portfolio](assets/badges/andersonaaronalarcon-dev-6ec15c.svg)](https://andersonaaronalarcon.dev)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFE11A,35:A6FF00,70:00B4FF,100:050E24&height=120&section=footer" alt="" width="100%"/>
 
