@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050E24,45:0057FF,80:00B4FF,100:A6FF00&height=210&section=header&text=Anderson%20Aaron%20Alarc%C3%B3n&fontColor=F4FBFF&fontSize=44&fontAlignY=34&desc=RedDeadth%20%C2%B7%20Full%20Stack%20Developer%20%C2%B7%20Arequipa%2C%20Per%C3%BA&descSize=16&descAlignY=55&animation=fadeIn" alt="Anderson Aaron Alarcón — RedDeadth · Full Stack Developer · Arequipa, Perú" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050E24,45:0057FF,80:00B4FF,100:A6FF00&height=210&section=header&text=Anderson%20Aaron%20Alarc%C3%B3n&fontColor=F4FBFF&fontSize=44&fontAlignY=34&desc=AndersonAlarconDev%20%C2%B7%20Full%20Stack%20Developer%20%C2%B7%20Arequipa%2C%20Per%C3%BA&descSize=16&descAlignY=55&animation=fadeIn" alt="Anderson Aaron Alarcón — AndersonAlarconDev · Full Stack Developer · Arequipa, Perú" width="100%"/>
 
 <a href="https://andersonaaronalarcon.dev"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1400&color=00B4FF&center=true&vCenter=true&width=660&lines=%3E+Backend+%C2%B7+Node.js+%C2%B7+FastAPI+%C2%B7+ASP.NET+Core;%3E+Architecture+%C2%B7+Hexagonal+%C2%B7+CQRS+%C2%B7+Microservices;%3E+Mobile+%C2%B7+Flutter+%C2%B7+Kotlin;%3E+Cloud+%C2%B7+AWS+Lambda+%C2%B7+DynamoDB+%C2%B7+Cognito" alt="Backend · Architecture · Mobile · Cloud"/></a>
 
 [![Portfolio](assets/badges/portfolio-andersonaaronalarcon-dev-15cbee.svg)](https://andersonaaronalarcon.dev)
 [![LinkedIn](assets/badges/linkedin-connect-f974cf.svg)](https://linkedin.com/in/anderson-aaron-alarcon)
 [![Email](assets/badges/gmail-contact-dcd6b9.svg)](mailto:aaronandersonalarcon@gmail.com)
-[![Followers](https://img.shields.io/github/followers/RedDeadth?style=for-the-badge&logo=github&logoColor=white&labelColor=050E24&color=00B4FF&label=Followers)](https://github.com/RedDeadth)
+[![Followers](https://img.shields.io/github/followers/AndersonAlarconDev?style=for-the-badge&logo=github&logoColor=white&labelColor=050E24&color=00B4FF&label=Followers)](https://github.com/AndersonAlarconDev)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00B4FF,50:A6FF00,100:FFE11A&height=3" alt="" width="100%"/>
 
@@ -20,9 +20,9 @@
 ## `> whoami`
 
 ```kotlin
-object RedDeadth {
+object AndersonAlarconDev {
     val name     = "Anderson Aaron Alarcón"
-    val alias    = "RedDeadth"
+    val alias    = "AndersonAlarconDev"
     val location = "Arequipa, Perú 🇵🇪"
     val status   = "🟢 Open to remote work"
 
@@ -103,7 +103,7 @@ object RedDeadth {
 <tr>
 <td width="52%" valign="top">
 
-### ⚙️ [`ecommerce-api`](https://github.com/RedDeadth/ecommerce-api)
+### ⚙️ [`ecommerce-api`](https://github.com/AndersonAlarconDev/ecommerce-api)
 
 > RESTful API — e-commerce platform
 
@@ -115,7 +115,7 @@ Hexagonal architecture · JWT + Spring Security · Clean domain model
 
 <br/>
 
-### 📱 [`GuardianBox`](https://github.com/RedDeadth/GuardianBox)
+### 📱 [`GuardianBox`](https://github.com/AndersonAlarconDev/GuardianBox)
 
 > IoT locker management system
 
@@ -140,7 +140,7 @@ Backend + PostgreSQL data model · Feature-based frontend (15+ modules) · Cloud
 </td>
 <td width="48%" valign="top">
 
-### ⚙️ [`Luka-Final-Project`](https://github.com/RedDeadth/Luka-Final-Project)
+### ⚙️ [`Luka-Final-Project`](https://github.com/AndersonAlarconDev/Luka-Final-Project)
 
 ![C#](assets/badges/c-net-9-00ca62.svg)
 ![Docker](assets/badges/docker-7cbcb4.svg)
@@ -150,7 +150,7 @@ Clean Architecture · CQRS / MediatR · Hangfire · Swagger
 
 <br/>
 
-### 📱 [`NotificationManager`](https://github.com/RedDeadth/NotificationManager)
+### 📱 [`NotificationManager`](https://github.com/AndersonAlarconDev/NotificationManager)
 
 ![Kotlin](assets/badges/kotlin-80acf5.svg)
 ![Android](assets/badges/android-b6ba09.svg)
@@ -221,9 +221,9 @@ Serverless backend for an iOS notes app · API Gateway · Cognito · Amplify (�
 
 <div align="center">
 
-[![Streak](https://streak-stats.demolab.com?user=RedDeadth&hide_border=false&border=0057FF&background=050E24&ring=A6FF00&fire=FFE11A&currStreakLabel=A6FF00&sideNums=F4FBFF&currStreakNum=F4FBFF&sideLabels=8FD8FF&dates=6F8FC0&stroke=0057FF&short_numbers=true)](https://github.com/RedDeadth)
+[![Streak](https://streak-stats.demolab.com?user=AndersonAlarconDev&hide_border=false&border=0057FF&background=050E24&ring=A6FF00&fire=FFE11A&currStreakLabel=A6FF00&sideNums=F4FBFF&currStreakNum=F4FBFF&sideLabels=8FD8FF&dates=6F8FC0&stroke=0057FF&short_numbers=true)](https://github.com/AndersonAlarconDev)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RedDeadth&bg_color=050E24&color=8FD8FF&title_color=F4FBFF&line=A6FF00&point=FFE11A&hide_border=false&border_color=0057FF&area=true&area_color=A6FF00)](https://github.com/RedDeadth)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AndersonAlarconDev&bg_color=050E24&color=8FD8FF&title_color=F4FBFF&line=A6FF00&point=FFE11A&hide_border=false&border_color=0057FF&area=true&area_color=A6FF00)](https://github.com/AndersonAlarconDev)
 
 </div>
 
